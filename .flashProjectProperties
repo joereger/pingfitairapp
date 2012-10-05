@@ -1,0 +1,111 @@
+<projectDescription>
+  <id>1236375422156</id>
+  <name>PingFit</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Documents and Settings/Joe Reger Jr/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Documents and Settings/Joe Reger Jr/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///C|/Superfly/SourceSvn/pingFitAirApp/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="PingFit.fla">file:///C|/Superfly/SourceSvn/pingFitAirApp/PingFit.fla</uri>
+    <uri label="ApiParams.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/ApiParams.as</uri>
+    <uri label="NextExercises.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/NextExercises.as</uri>
+    <uri label="NavPanelBase.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavPanelBase.as</uri>
+    <uri label="Badge.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/controls/Badge.as</uri>
+    <uri label="PingFit.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/PingFit.as</uri>
+    <uri label="FriendInList.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/chat/FriendInList.as</uri>
+    <uri label="Room.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/objects/Room.as</uri>
+    <uri label="NavPanelLoginSignup.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavPanelLoginSignup.as</uri>
+    <uri label="XmlCallBase.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/XmlCallBase.as</uri>
+    <uri label="ChangeRoomsButton.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/roomspanel/ChangeRoomsButton.as</uri>
+    <uri label="NavPanelEula.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavPanelEula.as</uri>
+    <uri label="Broadcaster.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/Broadcaster.as</uri>
+    <uri label="CallCreateRoom.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallCreateRoom.as</uri>
+    <uri label="ActiveRoomChatPanel.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/chat/ActiveRoomChatPanel.as</uri>
+    <uri label="ScrollerBar.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/scroller/ScrollerBar.as</uri>
+    <uri label="RoomInList.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/roomspanel/RoomInList.as</uri>
+    <uri label="EnterRoom.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/EnterRoom.as</uri>
+    <uri label="User.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/objects/User.as</uri>
+    <uri label="NavPanelSettings.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavPanelSettings.as</uri>
+    <uri label="Rooms.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/Rooms.as</uri>
+    <uri label="ApiCallSuccess.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/ApiCallSuccess.as</uri>
+    <uri label="CallGetRooms.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallGetRooms.as</uri>
+    <uri label="NavPanelRooms.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavPanelRooms.as</uri>
+    <uri label="TextUtil.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/format/TextUtil.as</uri>
+    <uri label="TimerPanel.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/timerpanel/TimerPanel.as</uri>
+    <uri label="NavPanelExercise.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavPanelExercise.as</uri>
+    <uri label="ExercisePanel.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/exercisepanel/ExercisePanel.as</uri>
+    <uri label="TurnOnNavPanel.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/TurnOnNavPanel.as</uri>
+    <uri label="NavPanelAll.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavPanelAll.as</uri>
+    <uri label="NavPanelExerciseLists.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavPanelExerciseLists.as</uri>
+    <uri label="NavButton.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavButton.as</uri>
+    <uri label="NavBar.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/nav/NavBar.as</uri>
+    <uri label="PEvent.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/PEvent.as</uri>
+    <uri label="ChatPanel.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/chat/ChatPanel.as</uri>
+    <uri label="DoExercise.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/DoExercise.as</uri>
+    <uri label="CallDeleteRoom.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallDeleteRoom.as</uri>
+    <uri label="Background.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/controls/Background.as</uri>
+    <uri label="Friends.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/Friends.as</uri>
+    <uri label="PresenceChange.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/PresenceChange.as</uri>
+    <uri label="FriendRequests.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/FriendRequests.as</uri>
+    <uri label="BigRefresh.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/BigRefresh.as</uri>
+    <uri label="ChatBubble.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/chat/ChatBubble.as</uri>
+    <uri label="NetConn.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/NetConn.as</uri>
+    <uri label="MessageToRoom.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/MessageToRoom.as</uri>
+    <uri label="CurrentUser.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/CurrentUser.as</uri>
+    <uri label="NextWorkoutTimer.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/NextWorkoutTimer.as</uri>
+    <uri label="ExerciseLists.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/ExerciseLists.as</uri>
+    <uri label="Eula.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/Eula.as</uri>
+    <uri label="CurrentRoom.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/static/CurrentRoom.as</uri>
+    <uri label="BackgroundColorButtons.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/controls/BackgroundColorButtons.as</uri>
+    <uri label="VersionCheck.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/versionupdate/VersionCheck.as</uri>
+    <uri label="Clock.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/timerpanel/Clock.as</uri>
+    <uri label="CallSignUp.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallSignUp.as</uri>
+    <uri label="XmlCaller.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/XmlCaller.as</uri>
+    <uri label="ApiCallFail.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/ApiCallFail.as</uri>
+    <uri label="CallGetRoomsMyFriendsAreIn.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallGetRoomsMyFriendsAreIn.as</uri>
+    <uri label="CallBreakFriendship.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallBreakFriendship.as</uri>
+    <uri label="CallDoExercise.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallDoExercise.as</uri>
+    <uri label="CountdownSecondsTimer.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/timing/CountdownSecondsTimer.as</uri>
+    <uri label="CallSetExerciseChooser.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallSetExerciseChooser.as</uri>
+    <uri label="ExerciseList.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/objects/ExerciseList.as</uri>
+    <uri label="CallJoinRoom.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallJoinRoom.as</uri>
+    <uri label="SkipExercise.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/SkipExercise.as</uri>
+    <uri label="Exercise.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/data/objects/Exercise.as</uri>
+    <uri label="TimeRemainingText.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/timerpanel/TimeRemainingText.as</uri>
+    <uri label="CountdownSecondsTimerEvent.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/timing/CountdownSecondsTimerEvent.as</uri>
+    <uri label="CallBigRefresh.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallBigRefresh.as</uri>
+    <uri label="LeaveRoom.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/events/LeaveRoom.as</uri>
+    <uri label="CallAgreeToEula.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallAgreeToEula.as</uri>
+    <uri label="CallGetCurrentEula.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallGetCurrentEula.as</uri>
+    <uri label="CallGetCurrentExercise.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallGetCurrentExercise.as</uri>
+    <uri label="CallGetCurrentRoom.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallGetCurrentRoom.as</uri>
+    <uri label="CallGetExercistList.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallGetExercistList.as</uri>
+    <uri label="CallIsUserEulaUpToDate.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallIsUserEulaUpToDate.as</uri>
+    <uri label="CallSetExerciseEveryXMinutes.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallSetExerciseEveryXMinutes.as</uri>
+    <uri label="CallSetExerciseList.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallSetExerciseList.as</uri>
+    <uri label="CallSetNickname.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallSetNickname.as</uri>
+    <uri label="CallSkipExercise.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallSkipExercise.as</uri>
+    <uri label="CallTestApi.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/xml/CallTestApi.as</uri>
+    <uri label="TrayIcon.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/icon/TrayIcon.as</uri>
+    <uri label="PingFit-app.xml">file:///C|/Superfly/SourceSvn/pingFitAirApp/PingFit-app.xml</uri>
+    <uri label="PersonInRoomListItem.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/chat/PersonInRoomListItem.as</uri>
+    <uri label="IconExerciseSkipped.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/chat/IconExerciseSkipped.as</uri>
+    <uri label="Scroller.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/scroller/Scroller.as</uri>
+    <uri label="ScrollMenuItem.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/controls/ScrollMenuItem.as</uri>
+    <uri label="IconExerciseCompleted.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/chat/IconExerciseCompleted.as</uri>
+    <uri label="NpTextScroller.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/noponies/ui/NpTextScroller.as</uri>
+    <uri label="ScrollerBarEvent.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/scroller/ScrollerBarEvent.as</uri>
+    <uri label="NpTextScrollBarEvent.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/noponies/events/NpTextScrollBarEvent.as</uri>
+    <uri label="NpTextScrollBar.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/noponies/ui/NpTextScrollBar.as</uri>
+    <uri label="ScrollMenu.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/controls/ScrollMenu.as</uri>
+    <uri label="PieChartProgress.as">file:///C|/Superfly/SourceSvn/pingFitAirApp/com/pingfit/icon/PieChartProgress.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

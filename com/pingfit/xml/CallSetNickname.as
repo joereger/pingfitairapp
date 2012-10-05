@@ -1,0 +1,26 @@
+﻿package com.pingfit.xml {
+	
+	import com.pingfit.xml.XmlCaller;
+	import flash.events.*;
+	import com.pingfit.events.*;
+	
+	public class CallSetNickname extends XmlCallBase {
+		
+
+
+		public function CallSetNickname(nickname:String) { 
+			var methodParams:Array = new Array();
+			var param0:MethodParam = new MethodParam("method", "setNickname");
+			methodParams.push(param0);
+			var param1:MethodParam = new MethodParam("nickname", nickname);
+			methodParams.push(param1);
+			xmlCaller = new XmlCaller(methodParams);
+			xmlCaller.addEventListener(XmlCaller.XML_LOADED, doneLoading);
+			xmlCaller.addEventListener(XmlCaller.XML_ERROR, errorLoading);
+		}
+	
+	
+		
+	}
+	
+}

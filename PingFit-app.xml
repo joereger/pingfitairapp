@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.6">
+    <id>com.pingfit.PingFit</id>
+    
+	<filename>pingFit</filename>
+	<description>Social exercise that fits into your day.</description>
+	<name>pingFit</name>
+	<copyright>© 2010-2011 pingFit</copyright>
+	<initialWindow>
+		  <title>PingFit</title>
+		  <content>PingFit.swf</content>
+		  <systemChrome>none</systemChrome>
+		  <transparent>true</transparent>
+		  <width>800</width>
+		  <height>600</height>
+		  <visible>true</visible>
+	  <maximizable>true</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>true</resizable>
+  </initialWindow>
+	<installFolder>pingFit</installFolder>
+	<programMenuFolder>pingFit</programMenuFolder>
+	<icon>
+		  <image128x128>icons/pingFit-128.png</image128x128>
+		  <image48x48>icons/pingFit-48.png</image48x48>
+		  <image32x32>icons/pingFit-32.png</image32x32>
+		  <image16x16>icons/pingFit-16.png</image16x16>
+	</icon>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>true</allowBrowserInvocation>
+  <versionNumber>2.0.084</versionNumber></application>
